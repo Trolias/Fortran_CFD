@@ -1,0 +1,15 @@
+1.              ! domain height
+1.              ! domain width
+400.  		! Reynolds
+10.             ! Peclet
+0.              ! Injection start
+0.              ! Injection end
+40   		! cells in X
+40   	 	! cells in Y
+5000            ! max iterations
+1.e-6		! convergence criteria
+0.6             ! P underrelaxation
+0.6		! U underrelaxation
+0.6             ! V underrelaxation
+1.              ! Scalar underrelaxation
+2		! 1.Upwind, 2.Central
